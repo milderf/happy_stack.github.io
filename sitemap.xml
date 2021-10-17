@@ -1,0 +1,74 @@
+<?xml-stylesheet type="text/xsl" href="https://milderf.github.io/happy_stack.github.io.git/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://milderf.github.io/happy_stack.github.io.git/categories/</loc>
+    <lastmod>2021-10-16T20:55:09-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://milderf.github.io/happy_stack.github.io.git/tags/commitment/</loc>
+    <lastmod>2021-10-16T20:55:09-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://milderf.github.io/happy_stack.github.io.git/post/gradschool/</loc>
+    <lastmod>2021-10-16T20:55:09-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://milderf.github.io/happy_stack.github.io.git/tags/graduate/</loc>
+    <lastmod>2021-10-16T20:55:09-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://milderf.github.io/happy_stack.github.io.git/categories/graduate-school/</loc>
+    <lastmod>2021-10-16T20:55:09-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://milderf.github.io/happy_stack.github.io.git/post/</loc>
+    <lastmod>2021-10-16T20:55:09-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://milderf.github.io/happy_stack.github.io.git/tags/school/</loc>
+    <lastmod>2021-10-16T20:55:09-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://milderf.github.io/happy_stack.github.io.git/tags/</loc>
+    <lastmod>2021-10-16T20:55:09-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://milderf.github.io/happy_stack.github.io.git/about/</loc>
+    <lastmod>2021-10-16T20:54:11-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://milderf.github.io/happy_stack.github.io.git/</loc>
+    <lastmod>2021-10-16T20:54:11-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>
