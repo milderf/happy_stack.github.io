@@ -1,0 +1,1 @@
+This is the deployment page for my personal blog website. This is in no way a professional website. This is for friends and family in its current state. Once I am ready, I plan on growing my blog into one that I can share with everybody on the internet (and hopefully make some side money some day hehe).
