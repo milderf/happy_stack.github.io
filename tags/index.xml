@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My Happiness Stack - NKG</title>
-    <link>https://milderf.github.io/happy_stack.github.io.git/tags/</link>
+    <link>https://milderf.github.io/happy_stack.github.io/tags/</link>
     <description>Recent content in Tags on My Happiness Stack - NKG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 16 Oct 2021 20:55:09 -0400</lastBuildDate>
     
-	<atom:link href="https://milderf.github.io/happy_stack.github.io.git/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://milderf.github.io/happy_stack.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>commitment</title>
-      <link>https://milderf.github.io/happy_stack.github.io.git/tags/commitment/</link>
+      <link>https://milderf.github.io/happy_stack.github.io/tags/commitment/</link>
       <pubDate>Sat, 16 Oct 2021 20:55:09 -0400</pubDate>
       
-      <guid>https://milderf.github.io/happy_stack.github.io.git/tags/commitment/</guid>
+      <guid>https://milderf.github.io/happy_stack.github.io/tags/commitment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>graduate</title>
-      <link>https://milderf.github.io/happy_stack.github.io.git/tags/graduate/</link>
+      <link>https://milderf.github.io/happy_stack.github.io/tags/graduate/</link>
       <pubDate>Sat, 16 Oct 2021 20:55:09 -0400</pubDate>
       
-      <guid>https://milderf.github.io/happy_stack.github.io.git/tags/graduate/</guid>
+      <guid>https://milderf.github.io/happy_stack.github.io/tags/graduate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>school</title>
-      <link>https://milderf.github.io/happy_stack.github.io.git/tags/school/</link>
+      <link>https://milderf.github.io/happy_stack.github.io/tags/school/</link>
       <pubDate>Sat, 16 Oct 2021 20:55:09 -0400</pubDate>
       
-      <guid>https://milderf.github.io/happy_stack.github.io.git/tags/school/</guid>
+      <guid>https://milderf.github.io/happy_stack.github.io/tags/school/</guid>
       <description></description>
     </item>
     

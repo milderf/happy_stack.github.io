@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://milderf.github.io/happy_stack.github.io.git/sitemap.xml
+Sitemap: https://milderf.github.io/happy_stack.github.io/sitemap.xml

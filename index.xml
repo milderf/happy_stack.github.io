@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Happiness Stack - NKG</title>
-    <link>https://milderf.github.io/happy_stack.github.io.git/</link>
+    <link>https://milderf.github.io/happy_stack.github.io/</link>
     <description>Recent content on My Happiness Stack - NKG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 16 Oct 2021 20:54:11 -0400</lastBuildDate>
     
-	<atom:link href="https://milderf.github.io/happy_stack.github.io.git/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://milderf.github.io/happy_stack.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>GradSchool</title>
-      <link>https://milderf.github.io/happy_stack.github.io.git/post/gradschool/</link>
+      <link>https://milderf.github.io/happy_stack.github.io/post/gradschool/</link>
       <pubDate>Sat, 16 Oct 2021 20:55:09 -0400</pubDate>
       
-      <guid>https://milderf.github.io/happy_stack.github.io.git/post/gradschool/</guid>
+      <guid>https://milderf.github.io/happy_stack.github.io/post/gradschool/</guid>
       <description>Why I chose to go to graduate school </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://milderf.github.io/happy_stack.github.io.git/about/</link>
+      <link>https://milderf.github.io/happy_stack.github.io/about/</link>
       <pubDate>Sat, 16 Oct 2021 20:54:11 -0400</pubDate>
       
-      <guid>https://milderf.github.io/happy_stack.github.io.git/about/</guid>
+      <guid>https://milderf.github.io/happy_stack.github.io/about/</guid>
       <description>This is my about page</description>
     </item>
     
