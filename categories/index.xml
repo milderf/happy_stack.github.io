@@ -6,9 +6,19 @@
     <description>Recent content in Categories on My Happiness Stack - NKG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Mon, 25 Oct 2021 18:43:21 -0400</lastBuildDate>
     
 	<atom:link href="https://milderf.github.io/happy_stack.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>why series</title>
+      <link>https://milderf.github.io/happy_stack.github.io/categories/why-series/</link>
+      <pubDate>Mon, 25 Oct 2021 18:43:21 -0400</pubDate>
+      
+      <guid>https://milderf.github.io/happy_stack.github.io/categories/why-series/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
