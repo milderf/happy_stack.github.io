@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Happiness Stack - NKG</title>
-    <link>https://milderf.github.io/happy_stack.github.io/</link>
+    <link>http://localhost:1313/happy_stack.github.io/</link>
     <description>Recent content on My Happiness Stack - NKG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 16 Oct 2021 20:54:11 -0400</lastBuildDate>
     
-	<atom:link href="https://milderf.github.io/happy_stack.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/happy_stack.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://milderf.github.io/happy_stack.github.io/about/</link>
+      <link>http://localhost:1313/happy_stack.github.io/about/</link>
       <pubDate>Sat, 16 Oct 2021 20:54:11 -0400</pubDate>
       
-      <guid>https://milderf.github.io/happy_stack.github.io/about/</guid>
+      <guid>http://localhost:1313/happy_stack.github.io/about/</guid>
       <description>Welcome to my blog site Hello and welcome! I am NKG, the autor of this site. I created this blog in an effort to not only find happiness for myself, but also spread that joy to others as much as I can. At the launch of this blog in October 2021, my audience consists of only friends and family. As someone who inspires to be an educator, I hope to exapnd this blog to as many people as I possibly can in order to share my knowledge!</description>
     </item>
     
